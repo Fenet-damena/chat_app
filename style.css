@@ -227,6 +227,7 @@ button:hover{
 }
 .product img {
     transition: 0.3s all;
+    height: 350px;
 
 }
 .product:hover img{
